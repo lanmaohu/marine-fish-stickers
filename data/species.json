@@ -1,0 +1,422 @@
+{
+  "title": "海水鱼贴纸库 · Marine Fish Stickers",
+  "version": "0.1.0",
+  "created": "2026-11-03",
+  "speciesCount": 9,
+  "language": "zh-Hans",
+  "notes": [
+    "中文为水族常用名；用学名标识物种。",
+    "本批为AI插画小样，已做外观初检，未完成鱼类专家审定。",
+    "各鱼在页面上按版式缩放，不代表真实体长比例。",
+    "分类名称取自所列参考来源，未完成Eschmeyer名录全量交叉核对。"
+  ],
+  "species": [
+    {
+      "id": "Amphiprion_ocellaris",
+      "number": "01",
+      "commonNameZh": "公子小丑",
+      "commonNameEn": "Ocellaris clownfish",
+      "scientificName": "Amphiprion ocellaris",
+      "family": "Pomacentridae",
+      "caption": "橙白黑三色 · 三条白带",
+      "depiction": {
+        "stage": "adult",
+        "sex": "unspecified",
+        "variant": "typical coloration",
+        "orientation": "left-facing lateral",
+        "sizeScale": "not to scale"
+      },
+      "sticker": {
+        "file": "stickers/Pomacentridae/Amphiprion_ocellaris.png",
+        "kind": "AI reference-based illustration",
+        "tool": "built-in image_gen",
+        "reviewStatus": "AI visual review; not expert-validated",
+        "reviewNotes": "橙色体色、三条白带、黑色鳍缘已对照参考；鳍棘数量未逐条验证。",
+        "license": "CC-BY-4.0",
+        "width": 1254,
+        "height": 1254,
+        "format": "PNG",
+        "transparent": true
+      },
+      "references": [
+        {
+          "file": "references/01_Amphiprion_ocellaris.jpg",
+          "photoId": 519599167,
+          "observationId": 288907889,
+          "author": "Erasmo Macaya Horta",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "page": "https://www.inaturalist.org/photos/519599167",
+          "observation": "https://www.inaturalist.org/observations/288907889",
+          "role": "biological reference",
+          "modification": "Photo used as reference for a newly generated illustration; pose, background and style changed."
+        }
+      ]
+    },
+    {
+      "id": "Paracanthurus_hepatus",
+      "number": "02",
+      "commonNameZh": "蓝倒吊",
+      "commonNameEn": "Palette surgeonfish",
+      "scientificName": "Paracanthurus hepatus",
+      "family": "Acanthuridae",
+      "caption": "宝蓝体色 · 黑色调色板纹",
+      "depiction": {
+        "stage": "adult",
+        "sex": "unspecified",
+        "variant": "typical coloration",
+        "orientation": "left-facing lateral",
+        "sizeScale": "not to scale"
+      },
+      "sticker": {
+        "file": "stickers/Acanthuridae/Paracanthurus_hepatus.png",
+        "kind": "AI reference-based illustration",
+        "tool": "built-in image_gen",
+        "reviewStatus": "AI visual review; not expert-validated",
+        "reviewNotes": "蓝色体色、黑色侧纹、黄色尾鳍已对照参考；单鱼姿态由群体照片重构。",
+        "license": "CC-BY-4.0",
+        "width": 1254,
+        "height": 1254,
+        "format": "PNG",
+        "transparent": true
+      },
+      "references": [
+        {
+          "file": "references/02_Paracanthurus_hepatus.jpg",
+          "photoId": 354753703,
+          "observationId": 201010058,
+          "author": "Donald Davesne",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "page": "https://www.inaturalist.org/photos/354753703",
+          "observation": "https://www.inaturalist.org/observations/201010058",
+          "role": "biological reference",
+          "modification": "Photo used as reference for a newly generated illustration; pose, background and style changed."
+        }
+      ]
+    },
+    {
+      "id": "Zebrasoma_flavescens",
+      "number": "03",
+      "commonNameZh": "黄倒吊",
+      "commonNameEn": "Yellow tang",
+      "scientificName": "Zebrasoma flavescens",
+      "family": "Acanthuridae",
+      "caption": "柠檬黄 · 尾柄白色棘",
+      "depiction": {
+        "stage": "adult",
+        "sex": "unspecified",
+        "variant": "typical coloration",
+        "orientation": "left-facing lateral",
+        "sizeScale": "not to scale"
+      },
+      "sticker": {
+        "file": "stickers/Acanthuridae/Zebrasoma_flavescens.png",
+        "kind": "AI reference-based illustration",
+        "tool": "built-in image_gen",
+        "reviewStatus": "AI visual review; not expert-validated",
+        "reviewNotes": "黄色体色、长吻、帆形背鳍、尾柄白色棘已初检；参考为群体照片，微小细节无法逐一核对。",
+        "license": "CC-BY-4.0",
+        "width": 1254,
+        "height": 1254,
+        "format": "PNG",
+        "transparent": true
+      },
+      "references": [
+        {
+          "file": "references/03_Zebrasoma_flavescens_2.jpg",
+          "photoId": 108276707,
+          "observationId": 67073812,
+          "author": "Zoltán Stekkelpak",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "page": "https://www.inaturalist.org/photos/108276707",
+          "observation": "https://www.inaturalist.org/observations/67073812",
+          "role": "biological reference",
+          "modification": "Photo used as reference for a newly generated illustration; pose, background and style changed."
+        }
+      ]
+    },
+    {
+      "id": "Chelmon_rostratus",
+      "number": "04",
+      "commonNameZh": "铜带蝶鱼",
+      "commonNameEn": "Copperband butterflyfish",
+      "scientificName": "Chelmon rostratus",
+      "family": "Chaetodontidae",
+      "caption": "细长吻 · 铜色竖带与眼斑",
+      "depiction": {
+        "stage": "adult",
+        "sex": "unspecified",
+        "variant": "typical coloration",
+        "orientation": "left-facing lateral",
+        "sizeScale": "not to scale"
+      },
+      "sticker": {
+        "file": "stickers/Chaetodontidae/Chelmon_rostratus.png",
+        "kind": "AI reference-based illustration",
+        "tool": "built-in image_gen",
+        "reviewStatus": "AI visual review; not expert-validated",
+        "reviewNotes": "长吻、铜色竖带、背部后方眼斑已初检；参考照吻部受遮挡，形态经物种特征描述补充。",
+        "license": "CC-BY-4.0",
+        "width": 1254,
+        "height": 1254,
+        "format": "PNG",
+        "transparent": true
+      },
+      "references": [
+        {
+          "file": "references/04_Chelmon_rostratus_alt.jpg",
+          "photoId": 249083403,
+          "observationId": 145048695,
+          "author": "Donald Davesne",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "page": "https://www.inaturalist.org/photos/249083403",
+          "observation": "https://www.inaturalist.org/observations/145048695",
+          "role": "biological reference",
+          "modification": "Photo used as reference for a newly generated illustration; pose, background and style changed."
+        }
+      ]
+    },
+    {
+      "id": "Pterapogon_kauderni",
+      "number": "05",
+      "commonNameZh": "泗水玫瑰",
+      "commonNameEn": "Banggai cardinalfish",
+      "scientificName": "Pterapogon kauderni",
+      "family": "Apogonidae",
+      "caption": "银黑竖带 · 珍珠白点",
+      "depiction": {
+        "stage": "adult",
+        "sex": "unspecified",
+        "variant": "typical coloration",
+        "orientation": "left-facing lateral",
+        "sizeScale": "not to scale"
+      },
+      "sticker": {
+        "file": "stickers/Apogonidae/Pterapogon_kauderni.png",
+        "kind": "AI reference-based illustration",
+        "tool": "built-in image_gen",
+        "reviewStatus": "AI visual review; not expert-validated",
+        "reviewNotes": "三条黑色主带、白色斑点、分开的背鳍与叉尾已初检；鱼鳍细部非专家鉴定。",
+        "license": "CC-BY-4.0",
+        "width": 1254,
+        "height": 1254,
+        "format": "PNG",
+        "transparent": true
+      },
+      "references": [
+        {
+          "file": "references/05_Pterapogon_kauderni.jpg",
+          "photoId": 355664308,
+          "observationId": 201477039,
+          "author": "Pauline Walsh Jacobson",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "page": "https://www.inaturalist.org/photos/355664308",
+          "observation": "https://www.inaturalist.org/observations/201477039",
+          "role": "biological reference",
+          "modification": "Photo used as reference for a newly generated illustration; pose, background and style changed."
+        }
+      ]
+    },
+    {
+      "id": "Gramma_loreto",
+      "number": "06",
+      "commonNameZh": "皇家草莓",
+      "commonNameEn": "Royal gramma",
+      "scientificName": "Gramma loreto",
+      "family": "Grammatidae",
+      "caption": "前紫后黄 · 背鳍黑斑",
+      "depiction": {
+        "stage": "adult",
+        "sex": "unspecified",
+        "variant": "typical coloration",
+        "orientation": "left-facing lateral",
+        "sizeScale": "not to scale"
+      },
+      "sticker": {
+        "file": "stickers/Grammatidae/Gramma_loreto.png",
+        "kind": "AI reference-based illustration",
+        "tool": "built-in image_gen",
+        "reviewStatus": "AI visual review; not expert-validated",
+        "reviewNotes": "紫黄分区、背鳍前部黑点、眼部暗线已初检；中文为水族俗名，以学名区分近似品种。",
+        "license": "CC-BY-4.0",
+        "width": 1254,
+        "height": 1254,
+        "format": "PNG",
+        "transparent": true
+      },
+      "references": [
+        {
+          "file": "references/06_Gramma_loreto.jpg",
+          "photoId": 439200275,
+          "observationId": 246064485,
+          "author": "Jay Brasher",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "page": "https://www.inaturalist.org/photos/439200275",
+          "observation": "https://www.inaturalist.org/observations/246064485",
+          "role": "biological reference",
+          "modification": "Photo used as reference for a newly generated illustration; pose, background and style changed."
+        }
+      ]
+    },
+    {
+      "id": "Centropyge_loriculus",
+      "number": "07",
+      "commonNameZh": "火焰神仙",
+      "commonNameEn": "Flame angelfish",
+      "scientificName": "Centropyge loriculus",
+      "family": "Pomacanthidae",
+      "caption": "橙红身体 · 黑色竖纹与蓝鳍缘",
+      "depiction": {
+        "stage": "adult",
+        "sex": "unspecified",
+        "variant": "typical coloration",
+        "orientation": "left-facing lateral",
+        "sizeScale": "not to scale"
+      },
+      "sticker": {
+        "file": "stickers/Pomacanthidae/Centropyge_loriculus.png",
+        "kind": "AI reference-based illustration",
+        "tool": "built-in image_gen",
+        "reviewStatus": "AI visual review; not expert-validated",
+        "reviewNotes": "橙红底色、黑色不规则竖纹、背鳍臀鳍蓝缘已初检；学名采用iNaturalist所列loriculus，保留loricula作检索别名。",
+        "license": "CC-BY-4.0",
+        "width": 1254,
+        "height": 1254,
+        "format": "PNG",
+        "transparent": true
+      },
+      "references": [
+        {
+          "file": "references/07_Centropyge_loricula_1.jpg",
+          "photoId": 370210419,
+          "observationId": 209205855,
+          "author": "Debra Baker",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "page": "https://www.inaturalist.org/photos/370210419",
+          "observation": "https://www.inaturalist.org/observations/209205855",
+          "role": "biological reference",
+          "modification": "Photo used as reference for a newly generated illustration; pose, background and style changed."
+        }
+      ],
+      "synonyms": [
+        "Centropyge loricula"
+      ]
+    },
+    {
+      "id": "Nemateleotris_magnifica",
+      "number": "08",
+      "commonNameZh": "雷达鱼",
+      "commonNameEn": "Fire dartfish",
+      "scientificName": "Nemateleotris magnifica",
+      "family": "Gobiidae",
+      "caption": "白红渐变 · 细长第一背鳍",
+      "depiction": {
+        "stage": "adult",
+        "sex": "unspecified",
+        "variant": "typical coloration",
+        "orientation": "left-facing lateral",
+        "sizeScale": "not to scale"
+      },
+      "sticker": {
+        "file": "stickers/Gobiidae/Nemateleotris_magnifica.png",
+        "kind": "AI reference-based illustration",
+        "tool": "built-in image_gen",
+        "reviewStatus": "AI visual review; not expert-validated",
+        "reviewNotes": "白色前半身、橙红尾部、细长第一背鳍及分开的第二背鳍已初检；鳍条数量未逐条验证。",
+        "license": "CC-BY-4.0",
+        "width": 1254,
+        "height": 1254,
+        "format": "PNG",
+        "transparent": true
+      },
+      "references": [
+        {
+          "file": "references/08_Nemateleotris_magnifica_2.jpg",
+          "photoId": 537855829,
+          "observationId": 298588484,
+          "author": "Pierre Pericard",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "page": "https://www.inaturalist.org/photos/537855829",
+          "observation": "https://www.inaturalist.org/observations/298588484",
+          "role": "biological reference",
+          "modification": "Photo used as reference for a newly generated illustration; pose, background and style changed."
+        },
+        {
+          "file": "references/08_Nemateleotris_magnifica_1.jpg",
+          "photoId": 607054505,
+          "observationId": 334305363,
+          "author": "cello caruso-turiello",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "page": "https://www.inaturalist.org/photos/607054505",
+          "observation": "https://www.inaturalist.org/observations/334305363",
+          "role": "supporting biological reference",
+          "modification": "Used as an additional color and fin-shape reference."
+        }
+      ]
+    },
+    {
+      "id": "Synchiropus_splendidus",
+      "number": "09",
+      "commonNameZh": "麒麟鱼",
+      "commonNameEn": "Mandarinfish",
+      "scientificName": "Synchiropus splendidus",
+      "family": "Callionymidae",
+      "caption": "蓝绿橙色曲纹 · 扇形胸鳍",
+      "depiction": {
+        "stage": "adult",
+        "sex": "male",
+        "variant": "typical coloration",
+        "orientation": "left-facing lateral",
+        "sizeScale": "not to scale"
+      },
+      "sticker": {
+        "file": "stickers/Callionymidae/Synchiropus_splendidus.png",
+        "kind": "AI reference-based illustration",
+        "tool": "built-in image_gen",
+        "reviewStatus": "AI visual review; not expert-validated",
+        "reviewNotes": "蓝绿橙色曲纹、扇形胸鳍、分开的背鳍已初检；已针对无鳞皮肤重绘，细微结构仍待专业复核。",
+        "license": "CC-BY-4.0",
+        "width": 1254,
+        "height": 1254,
+        "format": "PNG",
+        "transparent": true
+      },
+      "references": [
+        {
+          "file": "references/09_Synchiropus_splendidus_2.jpg",
+          "photoId": 255388324,
+          "observationId": 148318211,
+          "author": "Ioannis Magouras",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "page": "https://www.inaturalist.org/photos/255388324",
+          "observation": "https://www.inaturalist.org/observations/148318211",
+          "role": "biological reference",
+          "modification": "Photo used as reference for a newly generated illustration; pose, background and style changed."
+        }
+      ],
+      "verificationSources": [
+        {
+          "url": "https://www.georgiaaquarium.org/animal/mandarinfish/",
+          "fact": "The species is scaleless."
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 1,
+  "repository": "https://github.com/lanmaohu/marine-fish-stickers",
+  "homepage": "https://lanmaohu.github.io/marine-fish-stickers/",
+  "license": {
+    "artwork": "CC-BY-4.0",
+    "code": "MIT",
+    "references": "per-photo license"
+  }
+}
